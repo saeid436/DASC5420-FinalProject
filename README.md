@@ -1,5 +1,5 @@
 # DASC5420-FinalProject: Skin Cancer Image Classification Based on Neural Networks
-This is for Final Project of Theoretical Machine Learning Course-DASC5420.
+This is Final Project of Theoretical Machine Learning Course-DASC5420.
 This study uses MLP and CNNs to classify skin cancer images in HAM10000 dataset.
 
 This Project inculdes two folders:
